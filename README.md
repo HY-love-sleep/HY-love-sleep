@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm HY-love-sleep
 
-<!--
-**HY-love-sleep/HY-love-sleep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Role: Committer](https://img.shields.io/badge/role-Committer-brightgreen?style=flat-square)](#)
+[![Apache ShenYu](https://img.shields.io/badge/Apache-ShenYu-blue?logo=apache)](https://github.com/apache/shenyu)
+[![Spring AI Alibaba](https://img.shields.io/badge/Spring-AI--Alibaba-green?logo=spring)](https://github.com/alibaba/spring-ai-alibaba)
+[![Google ADK](https://img.shields.io/badge/Google-ADK-orange?logo=google)](https://github.com/google/adk-python)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌟 **Committer** @ [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)  
+- 🔧 **Contributor** @ [Apache ShenYu](https://github.com/apache/shenyu)  
+- 🚀 Currently focusing on [Google ADK (Agent Development Kit)](https://github.com/google/adk-python)  
+- ❤️ Passionate about coding, open-source, and system architecture  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Main:** Java,Python
+- **Learning:** Go, TypeScript  
+- **Others:** AI Gateway, LLM Security, RAG, Multi-Agent Systems  
+
+---
+
+## 📂 Open Source Highlights
+
+- 🟢 [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) — Committer  
+- 🔵 [Apache ShenYu](https://github.com/apache/shenyu) — Contributor  
+- 🟠 [Google ADK (Python)](https://github.com/google/adk-python) — Actively exploring  
+
+---
+
+## 📊 GitHub Stats
+
+![HY-love-sleep's GitHub stats](https://github-readme-stats.vercel.app/api?username=HY-love-sleep&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HY-love-sleep&layout=compact&theme=radical)
+
+---
+
+## 📫 Reach Me
+
+- GitHub: [@HY-love-sleep](https://github.com/HY-l)
